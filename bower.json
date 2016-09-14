@@ -1,0 +1,21 @@
+{
+  "name": "MessengerTemplates",
+  "description": "",
+  "main": "",
+  "authors": [
+    "bogdan <srk.bogdan@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "public/bower_components"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#^4.6.3"
+  }
+}
